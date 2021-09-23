@@ -13,10 +13,9 @@
     "start": "node hypermod.js"
   },
   "keywords": [
-    "termux-whatsapp-bot",
-    "whatsapp-bot",
+    "bot",
     "whatsapp",
-    "js-whatsapp"
+    "whatsapp-bot"
   ],
   "homepage": "https://github.com/HYPER-MOD/bug-bot",
   "author": {
