@@ -10,8 +10,7 @@
     "temp": "temp"
   },
   "scripts": {
-    "start": "node hypermod.js",
-    "test": "node test.js"
+    "start": "node hypermod.js"
   },
   "keywords": [
     "termux-whatsapp-bot",
