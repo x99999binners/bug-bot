@@ -1,7 +1,12 @@
 {
-  "name": "HYPER-BUG-BOT",
-  "description": "Lightweight WhatsApp Bot",
+  "name": "whatsapp-bot",
+  "description": "whatsapp bot build with nodejs",
   "repository": "https://github.com/HYPER-MOD/bug-bot",
   "logo": "https://www.linkpicture.com/q/HYPER-MOD-LOGO.jpg",
-  "keywords": ["bot", "whatsapp", "whatsapp-bot"]
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"]
+  "buildpacks": [{
+    "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
+  }, {
+    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+  }]
 }
