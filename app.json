@@ -4,9 +4,4 @@
   "repository": "https://github.com/HYPER-MOD/bug-bot",
   "logo": "https://www.linkpicture.com/q/HYPER-MOD-LOGO.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"]
-  "buildpacks": [{
-    "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
-  }, {
-    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-  }]
 }
