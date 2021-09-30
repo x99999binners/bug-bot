@@ -27,11 +27,11 @@ WhatsApp bug Bot
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/HYPER-MOD/bug-bot/blob/main/media/hypermod.json#L2)
+[`Click Here`](https://github.com/HYPER-MOD/bug-bot/blob/main/media/hypermod.json#L1)
 
 ## `SETTING`
 
-- Owner number [Here](https://github.com/HYPER-MOD/bug-bot/blob/main/src/settings.json#L1)
+- Owner number [Here](https://github.com/HYPER-MOD/bug-bot/blob/main/src/settings.json#L2)
 
 ## `CHANGE DYNO`
 
