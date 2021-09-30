@@ -40,17 +40,17 @@ Off in web ny | ඔෆ් කරන්න web එක | turn off web button.
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_20888ybra1.jpg" />
+  <a href="https://youtu.be/kqc6KDBw3j0"><img src="https://a.top4top.io/p_20888ybra1.jpg" />
 </p>
 
 ## ```HOW TO DEPLOY```
 
-[`Click Here For Tutorial`](https://youtu.be/_CP2_1Yqauo)<br>
+[`Click Here For Tutorial`](https://youtu.be/kqc6KDBw3j0)<br>
 
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://www.linkpicture.com/q/HYPER-MOD-LOGO.jpg" />
+  <a href="https://youtu.be/kqc6KDBw3j0"><img src="https://www.linkpicture.com/q/HYPER-MOD-LOGO.jpg" />
 </p>
 
 
