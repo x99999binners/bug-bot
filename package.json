@@ -1,7 +1,7 @@
 {
-  "name": "dcode-denpa",
+  "name": "bug-bot",
   "version": "0.0.1",
-  "description": "crewbot",
+  "description": "hyperbot",
   "main": "hypermod.js",
   "directories": {
     "lib": "lib"
@@ -47,10 +47,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dcode-denpa/crewbot.git"
+    "url": "git+https://github.com/HYPER-MOD/bug-bot.git"
   },
   "bugs": {
-    "url": "https://github.com/dcode-denpa/crewbot/issues"
+    "url": "https://github.com/HYPER-MOD/bug-bot/issues"
   },
-  "homepage": "https://github.com/dcode-denpa/crewbot#readme"
+  "homepage": "https://github.com/HYPER-MOD/bug-bot#readme"
 }
