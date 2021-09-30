@@ -54,7 +54,7 @@ Off in web ny | ඔෆ් කරන්න web එක | turn off web button.
 </p>
 
 
-##```Spacial thanks```
+## ```Spacial thanks```
 
 [`Click Here join`](https://chat.whatsapp.com/E3mdgudd61Y0vxLLJxbX9c)
 
