@@ -42,8 +42,7 @@
     "request": "^2.88.2",
     "spinnies": "^0.5.1",
     "tiktok-scraper-without-watermark": "^1.0.6",
-    "ytsr": "^3.5.0",
-    "yt-search": "^3.5.0"
+    "ytsr": "^3.5.0"
   },
   "devDependencies": {},
   "repository": {
