@@ -50,7 +50,7 @@ Off in web ny | ඔෆ් කරන්න web එක | turn off web button.
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
+  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://www.linkpicture.com/q/HYPER-MOD-LOGO.jpg" />
 </p>
 
 
